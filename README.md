@@ -22,6 +22,8 @@ Print the program.
 ### Step 8:
 End of the Program.
 ## Program:
+Name:Swathika G
+Reg No:212221230113
 ```C#
 using System;
 namespace Pattern
