@@ -1,4 +1,5 @@
-# <p align="center">Pattern</p>
+# EX-3 PATTERN
+## Date:
 ## Aim:
 To write a C# program for a pascal's triangle
 ## Equipment Required:
